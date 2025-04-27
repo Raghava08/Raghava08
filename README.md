@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a passionate Full Stack Developer with a strong foundation in AI & ML. I have extensive experience in programming languages like Java, Python, and MySQL, along with expertise in Data Structures & Algorithms, placing me in the top 8.03% on LeetCode. I hold certifications in Cloud & DevOps, DSA, Python, Java, and SQL, and I’m skilled in front-end technologies like HTML, CSS, JavaScript, and Bootstrap.
 
-In addition to my technical background, I’ve mentored developers during my time with Smart Interviews, focusing on Data Structures & Algorithms. I’m driven by innovation and continuous learning, which fuels my passion for contributing to impactful projects and advancing my skill set.
+
 
 
 ## 🌐 Socials:
